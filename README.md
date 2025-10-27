@@ -4,10 +4,8 @@
 💬 Always open to connecting, collaborating, or learning something new.  
 Feel free to explore my projects — they’re all part of my learning journey!
 
-### 🎧 Now Playing
-
-## 🎵 What I’m Listening To
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
+## 🎧 What I’m Listening To
+<a href="https://open.spotify.com/user/cloud9mania" target="_blank">
   <img src="https://raw.githubusercontent.com/hazminfirdaus/spotify-refresher-helper/main/now-playing.svg" width="540" alt="Spotify Now Playing">
 </a>
 
