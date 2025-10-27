@@ -1,5 +1,4 @@
-## ⚡️ Hi! I'm Hazmin ⚡️
-### Full-stack Developer | MSc Student
+## ⚡️ Hi! I'm Hazmin ⚡️ Full-stack Developer | MSc Student
 I'm open to new opportunities in the tech world!
 
 ## 📚 Background
