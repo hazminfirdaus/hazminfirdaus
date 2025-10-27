@@ -4,6 +4,8 @@
 💬 Always open to connecting, collaborating, or learning something new.  
 Feel free to explore my projects — they’re all part of my learning journey!
 
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
+
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
 
 ---
