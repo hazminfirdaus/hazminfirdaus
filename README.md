@@ -22,7 +22,7 @@ Feel free to explore my projects — they’re all part of my learning journey!
 
 ---
 
-## 🧰 Tech Stack
+## 👨🏻‍💻 Tech Stack
 
 <p align="center">
   <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" /></a>
@@ -41,6 +41,7 @@ Feel free to explore my projects — they’re all part of my learning journey!
   <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker" /></a>
   <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux" /></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code" /></a>
+  <a href="https://aws.amazon.com/" title="AWS Cloud"><img src="https://skillicons.dev/icons?i=aws" width="45" alt="AWS Cloud" /></a>
 </p>
 
 ---
