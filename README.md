@@ -1,6 +1,10 @@
 ## ⚡️ Hi! I'm Hazmin ⚡️ Full-stack Developer | MSc Student
 I'm open to new opportunities in the tech world!
 
+[🌍 Portfolio](https://hazminchik.com) |
+[💼 LinkedIn](https://linkedin.com/in/hazminfirdaus) |
+[📧 Email] (cmhazminfirdaus@gmail.com)
+
 ## 📚 Background
 ### 🏫 Teesside University | TU Prague City
 #### 🎓 BSc (Hons) Computer Science — First Class
