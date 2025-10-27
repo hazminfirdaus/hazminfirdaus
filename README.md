@@ -17,6 +17,8 @@ Feel free to explore my projects — they’re all part of my learning journey!
 🎓 **University of Malaysia**  
 - **BSc (Hons)** Civil Engineering — *Second Class Upper*
 
+### 📖 I’m continuously improving my technical foundation and experimenting with both **academic** and **industry tools** — from low-level algorithms to modern frameworks.
+
 ---
 
 ## 🧰 Tech Stack
@@ -53,15 +55,8 @@ Feel free to explore my projects — they’re all part of my learning journey!
   />
 </p>
 
----
 
-## 📖 About Me
-
-I’m continuously improving my technical foundation and experimenting with both **academic** and **industry tools** — from low-level algorithms to modern frameworks.
-
----
-
-## 🚀 Goal
+### 🚀 Goal
 
 To keep learning, building, and documenting — one concept at a time.  
 
