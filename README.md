@@ -21,11 +21,6 @@ Feel free to explore my projects — they’re all part of my learning journey!
 
 ## 🧰 Tech Stack
 
-**Languages:** PHP, JavaScript, Python, C#, SQL  
-**Frameworks & Tools:** Laravel, React, Bootstrap, Node.js  
-**Databases:** MySQL, PostgreSQL  
-**Other:** Git, Docker, Linux, VS Code  
-
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=php,laravel,js,react,python,cs,html,css,nodejs,bootstrap,mysql,postgresql,git,docker,linux,vscode&theme=dark" 
