@@ -1,13 +1,10 @@
-## ⚡️ Hi! I'm Hazmin ⚡️ ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
+## ⚡️ Hi! I'm Hazmin ⚡️ ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge) ### 🎧 Now Playing  
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)  
+[![Spotify](https://spotify-refresher-helper-git-main-hazminfirdaus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cloud9mania)
 ### Full-stack Developer | MSc Computer Science Student | Civil Engineer
 
 💬 Always open to connecting, collaborating, or learning something new.  
 Feel free to explore my projects — they’re all part of my learning journey!
-
-## 🎧 What I’m Listening To
-<a href="https://open.spotify.com/user/cloud9mania" target="_blank">
-  <img src="https://raw.githubusercontent.com/hazminfirdaus/spotify-refresher-helper/main/now-playing.svg" width="540" alt="Spotify Now Playing">
-</a>
 
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
 
