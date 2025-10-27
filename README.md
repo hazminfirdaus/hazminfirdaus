@@ -17,9 +17,9 @@ Feel free to explore my projects — they’re all part of my learning journey!
 - BSc (Hons) Civil Engineering — *Second Class Upper*
 
 ## 🧰 Tech Stack
-**Languages:** PHP, JavaScript, Python, C#, SQL  
-**Frameworks & Tools:** Laravel, React, Bootstrap, Node.js  
-**Databases:** MySQL, PostgreSQL  
+**Languages:** JavaScript, PHP, Python, C#, Java, Clojure, SQL  
+**Frameworks & Tools:** React, Laravel, Alpine.js, Express.js, Bootstrap, Node.js  
+**Databases:** MySQL, PostgreSQL, MongoDB
 **Other:** Git, Docker, Linux, VS Code
 
 I’m continuously improving my technical foundation and experimenting with both **academic** and **industry tools** — from low-level algorithms to modern frameworks.
