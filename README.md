@@ -1,5 +1,5 @@
 ## ⚡️ Hi! I'm Hazmin ⚡️  
-### Full-stack Developer | MSc Computer Science Student  
+### Full-stack Developer | MSc Computer Science Student | Civil Engineer
 
 💬 Always open to connecting, collaborating, or learning something new.  
 Feel free to explore my projects — they’re all part of my learning journey!
