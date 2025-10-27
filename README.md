@@ -28,6 +28,23 @@ Feel free to explore my projects — they’re all part of my learning journey!
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hazminfirdaus&show_icons=true&theme=tokyonight" 
+    alt="Hazmin's GitHub stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazminfirdaus&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    height="165"
+  />
+</p>
+
+---
+
 ## 📖 About Me
 
 I’m continuously improving my technical foundation and experimenting with both **academic** and **industry tools** — from low-level algorithms to modern frameworks.
