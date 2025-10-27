@@ -1,10 +1,9 @@
-## ⚡️ Hi! I'm Hazmin ⚡️  
+## ⚡️ Hi! I'm Hazmin ⚡️ ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
 ### Full-stack Developer | MSc Computer Science Student | Civil Engineer
 
 💬 Always open to connecting, collaborating, or learning something new.  
 Feel free to explore my projects — they’re all part of my learning journey!
 
-![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
 [![Spotify](https://novatorem-nbyrthco4-hazminfirdaus-projects.vercel.app/api/spotify?background_color=121212&border_color=1DB954&theme=dark)](https://open.spotify.com/user/cloud9mania)
 
 
