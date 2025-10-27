@@ -43,6 +43,14 @@ Feel free to explore my projects — they’re all part of my learning journey!
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=hazminfirdaus&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="165"
+  />
+</p>
+
 ---
 
 ## 📖 About Me
