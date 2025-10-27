@@ -34,7 +34,7 @@ To keep learning, building, and documenting — one concept at a time.
 ---
 
 ### 💬 Notes
-This repo is open for viewing and reference — it’s not a polished portfolio, but a **transparent snapshot of ongoing learning**.
+This page is open for viewing and reference — it’s not a polished portfolio, but a **transparent snapshot of ongoing learning**.
 
 <!--
 **hazminfirdaus/hazminfirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
