@@ -1,4 +1,4 @@
-## ⚡️ Hi! I'm Hazmin ⚡️ ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge) ### 🎧 Now Playing  
+## ⚡️ Hi! I'm Hazmin ⚡️
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)  
 [![Spotify](https://spotify-refresher-helper-git-main-hazminfirdaus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cloud9mania)
 ### Full-stack Developer | MSc Computer Science Student | Civil Engineer
