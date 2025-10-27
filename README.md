@@ -4,9 +4,7 @@
 💬 Always open to connecting, collaborating, or learning something new.  
 Feel free to explore my projects — they’re all part of my learning journey!
 
-### 🎧 Now Playing  
-[![Spotify](https://spotify-refresher-helper.vercel.app/api/spotify?cachebuster=1)](https://open.spotify.com/user/12127129574)
-
+### 🎧 Now Playing
 ![Spotify Now Playing](now-playing.svg)
 
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
