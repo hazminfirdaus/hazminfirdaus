@@ -5,7 +5,7 @@ Feel free to explore my projects — they’re all part of my learning journey!
 
 [🌍 Portfolio](https://hazminchik.com) |
 [💼 LinkedIn](https://linkedin.com/in/hazminfirdaus) |
-[📧 Email] (cmhazminfirdaus@gmail.com)
+[📧 Email](cmhazminfirdaus@gmail.com)
 
 ## 📚 Education
 
