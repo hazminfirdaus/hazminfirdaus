@@ -5,13 +5,14 @@ I'm open to new opportunities in the tech world!
 [💼 LinkedIn](https://linkedin.com/in/hazminfirdaus) |
 [📧 Email] (cmhazminfirdaus@gmail.com)
 
-## 📚 Background
-### 🏫 Teesside University | TU Prague City
-#### 🎓 BSc (Hons) Computer Science — First Class
-#### 🎓 MSc Computer Science — in progress
+## 📚 Education
 
-### 🏫 National University of Malaysia
-#### 🎓 BSc (Hons) Civil Engineering - Second Class Upper
+🎓 **Teesside University | TU Prague City**  
+- BSc (Hons) Computer Science — *First Class*  
+- MSc Computer Science — *In Progress*
+
+🎓 **University of Malaysia**  
+- BSc (Hons) Civil Engineering — *Second Class Upper*
 
 I’m continuously improving my technical foundation and experimenting with both **academic** and **industry tools** — from low-level algorithms to modern frameworks.
 
