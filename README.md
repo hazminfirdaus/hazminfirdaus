@@ -16,6 +16,12 @@ Feel free to explore my projects — they’re all part of my learning journey!
 🎓 **University of Malaysia**  
 - BSc (Hons) Civil Engineering — *Second Class Upper*
 
+## 🧰 Tech Stack
+**Languages:** PHP, JavaScript, Python, C#, SQL  
+**Frameworks & Tools:** Laravel, React, Bootstrap, Node.js  
+**Databases:** MySQL, PostgreSQL  
+**Other:** Git, Docker, Linux, VS Code
+
 I’m continuously improving my technical foundation and experimenting with both **academic** and **industry tools** — from low-level algorithms to modern frameworks.
 
 ---
