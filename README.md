@@ -4,8 +4,8 @@ I'm open to new opportunities in the tech world!
 
 ## 📚 Background
 ### 🏫 Teesside University | TU Prague City
-🎓 BSc (Hons) Computer Science — First Class
-🎓 MSc Computer Science — in progress
+#### 🎓 BSc (Hons) Computer Science — First Class
+#### 🎓 MSc Computer Science — in progress
 
 ### 🏫 University of Malaysia
 🎓 BSc (Hons) Civil Engineering - Second Class Upper
