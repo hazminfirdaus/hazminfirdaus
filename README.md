@@ -5,10 +5,7 @@
 Feel free to explore my projects — they’re all part of my learning journey!
 
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-<p align="center">
-  🟢 Currently coding in Prague · 🎧 Listening to <b>Imagine Dragons</b>  
-</p>
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID)
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true" width="350" />
 </p>
