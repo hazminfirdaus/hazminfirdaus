@@ -1,5 +1,7 @@
 ## ⚡️ Hi! I'm Hazmin ⚡️ Full-stack Developer | MSc Student
-I'm open to new opportunities in the tech world!
+### I'm open to new opportunities in the tech world!
+💬 Always open to connecting, collaborating, or learning something new.  
+Feel free to explore my projects — they’re all part of my learning journey!
 
 [🌍 Portfolio](https://hazminchik.com) |
 [💼 LinkedIn](https://linkedin.com/in/hazminfirdaus) |
