@@ -49,7 +49,7 @@ Feel free to explore my projects — they’re all part of my learning journey!
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=hazminfirdaus&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hazminfirdaus&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
     height="165"
   />
