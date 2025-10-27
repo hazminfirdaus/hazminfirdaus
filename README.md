@@ -9,13 +9,6 @@ Feel free to explore my projects — they’re all part of my learning journey!
   <img src="https://raw.githubusercontent.com/hazminfirdaus/spotify-refresher-helper/main/now-playing.svg" width="540" alt="Spotify Now Playing">
 </a>
 
-### 🎧 Now Playing
-<a href="https://open.spotify.com/usercloud9mania" target="_blank">
-  <img src="https://raw.githubusercontent.com/hazminfirdaus/spotify-refresher-helper/main/now-playing.svg" width="540" alt="Spotify Now Playing (updates every 5 min)">
-</a>
-
-> ⚡ Live data available [here](https://spotify-refresher-helper.vercel.app/api/spotify)
-
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
 
 ---
