@@ -5,9 +5,7 @@
 Feel free to explore my projects — they’re all part of my learning journey!
 
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-### 🎧 Now Playing on Spotify
-
-[![Spotify](https://novatorem-nbyrthco4-hazminfirdaus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cloud9mania)
+[![Spotify](https://novatorem-nbyrthco4-hazminfirdaus-projects.vercel.app/api/spotify?background_color=121212&border_color=1DB954&theme=dark)](https://open.spotify.com/user/cloud9mania)
 
 
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
