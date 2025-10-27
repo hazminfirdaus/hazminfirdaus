@@ -5,7 +5,8 @@
 Feel free to explore my projects — they’re all part of my learning journey!
 
 ### 🎧 Now Playing
-[![Spotify Now Playing](now-playing.svg)](https://open.spotify.com/user/cloud9mania)
+
+[![Spotify Now Playing](https://raw.githubusercontent.com/hazminfirdaus/spotify-refresher-helper/main/now-playing.svg)](https://open.spotify.com/user/cloud9mania)
 
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
 
