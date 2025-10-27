@@ -5,7 +5,7 @@
 Feel free to explore my projects — they’re all part of my learning journey!
 
 ### 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem-nbyrthco4-hazminfirdaus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/cloud9mania)
+[![Spotify](https://spotify-refresher-helper.vercel.app/api/spotify)](https://open.spotify.com/user/cloud9mania)
 
 [🌍 **Portfolio**](https://hazminchik.com)  |  [💼 **LinkedIn**](https://linkedin.com/in/hazminfirdaus)  |  [📧 **Email**](mailto:cmhazminfirdaus@gmail.com)
 
