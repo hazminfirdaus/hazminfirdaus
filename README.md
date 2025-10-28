@@ -1,6 +1,8 @@
 ## ⚡️ Hi! I'm Hazmin ⚡️
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge) ![Now Playing](https://img.shields.io/endpoint?url=https://spotify-refresher-helper-dn49shng8-hazminfirdaus-projects.vercel.app/api/badge)
 
+![
+
 ### Full-stack Developer | MSc Computer Science Student | Civil Engineer
 
 💬 Always open to connecting, collaborating, or learning something new.  
