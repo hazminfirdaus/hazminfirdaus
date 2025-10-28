@@ -16,7 +16,7 @@ Feel free to explore my projects — they’re all part of my learning journey!
 - **BSc (Hons)** Computer Science — *First Class*  
 - **MSc** Computer Science — *In Progress*
 
-🎓 **University of Malaysia**  
+🎓 ** National University of Malaysia**  
 - **BSc (Hons)** Civil Engineering — *Second Class Upper*
 
 ### Motivation
