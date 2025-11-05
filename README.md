@@ -58,11 +58,11 @@ Feel free to explore my projects — they’re all part of my learning journey!
     alt="Hazmin's GitHub stats" 
     height="165"
   />
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazminfirdaus&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="165"
-  />
+  /> -->
 </p>
 
 <p align="center">
